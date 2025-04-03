@@ -1,1 +1,2 @@
-# D23DCS168-DLP
+Practicals
+D23DCS168 - CHARUSAT University- Compiler Design Practical's
